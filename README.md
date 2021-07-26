@@ -11,9 +11,9 @@ Para a correta execução do programa é necessário ter o "Flex" instalado.
 
 ## Execução
 
- * Rodar o comando "flex regras-analisador-lexico.l" 
- * Em seguida rodar o seguinte comando "g++ lex.yy.c -lfl -o analisador-lexico"
- * E por fim, rodar o analisador com o comando "./analisador-lexico codigo-fonte/status.c tokens.lex"
+ * Rodar o comando "flex regras-gerador-lexico.l" 
+ * Em seguida rodar o seguinte comando "g++ lex.yy.c -lfl -o gerador-lexico"
+ * E por fim, rodar o gerador com o comando "./gerador-lexico codigo-fonte/status.c tokens.lex"
 
 ## Resultados
 
