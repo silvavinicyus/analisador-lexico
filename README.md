@@ -3,6 +3,9 @@
 Esse é um trabalho pedido pelo professor Alexandre Paes, da disciplina de Compiladores, ministrada no curso de gradução da Universidade Federal de Alagoas. 
 Esse trabalho tem como objetivo construir um gerador léxico, com o objetivo de analisar um código fonte sobre a situação academica de alunos baseado em suas notas.
 
+## Equipe
+  * Vinícyus Silva Soares
+  * Rodrigo Batista
 ## Avisos
 
 Para a correta execução do programa é necessário ter o "Flex" instalado.
